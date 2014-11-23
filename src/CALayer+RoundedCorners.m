@@ -6,6 +6,8 @@
 //  Copyright (c) 2013 IDAP Group. All rights reserved.
 //
 
+#import <UIKit/UIKit.h>
+
 #import "CALayer+RoundedCorners.h"
 
 @implementation CALayer (RoundedCorners)
